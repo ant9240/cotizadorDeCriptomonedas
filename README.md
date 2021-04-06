@@ -1,5 +1,4 @@
 # Cotizador de CriptoMonedas
-
 ***
 Hola Soy Anthony y este es uno de mis primeros proyectos.
 
@@ -10,5 +9,10 @@ Puedes elegir la divisa con la que quieres cotizar ya sea USD o EUR. Trabaja con
 Este Proyecto es bastante util para mostrar mis habilidades en lo básico de JavaScript, asi como también integración de API y maquetacíon de HTML con CSS.
 
 Espero que te Guste y Acepto Cualquier Sugerencia. Estoy aqui para nunca para de aprender :)
+
+
+## Screenshot
+***
+![Image text](img/screenShot.png)
 
 ### ATT: Anthony Llorente
